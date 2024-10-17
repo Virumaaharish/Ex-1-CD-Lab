@@ -1,6 +1,7 @@
+
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## Name:N.Navya Sree
-## Register No : 212223040138
+## Name: VIRUMAA HARISH M
+## Register No : 212223230246
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
